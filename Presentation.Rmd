@@ -1,0 +1,72 @@
+---
+title: "Presentation about Dogs"
+author: "Revathy Ponnambalam"
+date: "2022/10/01"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: center, middle
+
+#Dogs are the best pet animals 
+## cats and birds are other famous pet animals 
+---
+class: center, middle
+
+# Breeds of dogs 
+there are more breeds of dogs present aroundthe world and the top 7 famous breeds are as follows:
+
+#### Golden retriever.
+#### Labrador retriever.
+#### French bulldog.
+#### Beagle.
+#### German shepherd dog.
+#### Poodle.
+#### Bulldog
+---
+class: center, middle
+
+# How many dogs will a person come across in his life??
+
+```{r, echo= FALSE }
+print("everyone would have come across more than 10 dogs in their life")
+print("Golden Retriever are the cutest")
+print("I don't think anyone is who has not seen a dog")
+```
+
+
+---
+
+# Which breed lives the longest 
+
+## Jack Russell Terriers had life expectency of 12.72 years, followed by Yorkshire Terriers (12.54 years), Border Collies (12.10 years), and Springer Spaniels (11.92 years)
+
+--
+
+
+ I wish my dog lives the longest too
+--
+
+
+---
+
+# How many dogs have I owned 
+## I have owned two dogs till now and I really miss my dog alot. 
+
+```{r}
+first <- 1
+second <- 2 
+total <- first + second 
+
+print(total)
+```
+---
+
+class: center, middle
+
+# Thanks!
+
